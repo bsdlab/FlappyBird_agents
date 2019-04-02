@@ -1,4 +1,4 @@
-$ ContinuousFlappyBird: an experimental framework for research on RL in aDBS
+ContinuousFlappyBird: an experimental framework for research on RL in aDBS
 ================
 
 This repo contains a set of reinforcement learning agents (DQN, A2C, PPO) partially adopted from OpenAI baseline implementations. They are used to learn control strategies in OpeAi gym wrapped environments. 
